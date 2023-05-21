@@ -12,7 +12,7 @@
 * [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
 
 ## Performance counters
-* [How to enable performance counters in google benchmark](]https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
+* [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
 * [Intel Performance Counter Monitor](https://www.intel.com/content/www/us/en/developer/articles/technical/performance-counter-monitor.html)
 
 ## Operating systems
@@ -26,6 +26,7 @@
 * [Memory allocation](https://samwho.dev/memory-allocation/)
 * [Red Hat: Huge pages and transparent huge pages](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/performance_tuning_guide/s-memory-transhuge)
 * [Huge pages demo in Rust](https://github.com/evanj/hugepagedemo)
+* [snmalloc high-performance allocator](https://github.com/microsoft/snmalloc)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
