@@ -10,6 +10,7 @@
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
+* [SIMD for C++ developers](http://const.me/articles/simd/simd.pdf)
 
 ## Performance counters
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
