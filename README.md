@@ -21,6 +21,7 @@
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [4Kb page size is obsolete](https://ieeexplore.ieee.org/abstract/document/5211562)
+* [On the cost of syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
