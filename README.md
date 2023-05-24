@@ -28,6 +28,9 @@
 * [Red Hat: Huge pages and transparent huge pages](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/performance_tuning_guide/s-memory-transhuge)
 * [Huge pages demo in Rust](https://github.com/evanj/hugepagedemo)
 * [snmalloc high-performance allocator](https://github.com/microsoft/snmalloc)
+* [Determining whether an application has poor cache performance](https://developers.redhat.com/blog/2014/03/10/determining-whether-an-application-has-poor-cache-performance-2#)
+* [Transparent huge pages](https://www.digitalocean.com/blog/transparent-huge-pages-and-alternative-memory-allocators)
+* [Linux weekly news on Transparent Huge pages](https://lwn.net/Articles/374424/)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
