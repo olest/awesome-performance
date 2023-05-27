@@ -11,6 +11,7 @@
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
 * [SIMD for C++ developers](http://const.me/articles/simd/simd.pdf)
+* [Is Parallel Programming Hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf)
 
 ## Performance counters
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
@@ -22,6 +23,7 @@
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [4Kb page size is obsolete](https://ieeexplore.ieee.org/abstract/document/5211562)
 * [On the cost of syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
+* [io_uring explained (unzip.dev)](https://unzip.dev/0x013-io_uring/)
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
