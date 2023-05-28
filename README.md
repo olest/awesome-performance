@@ -35,6 +35,7 @@
 * [Determining whether an application has poor cache performance](https://developers.redhat.com/blog/2014/03/10/determining-whether-an-application-has-poor-cache-performance-2#)
 * [Transparent huge pages](https://www.digitalocean.com/blog/transparent-huge-pages-and-alternative-memory-allocators)
 * [Linux weekly news on Transparent Huge pages](https://lwn.net/Articles/374424/)
+* [Using Huge Pages on Linux](https://rigtorp.se/hugepages/)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
