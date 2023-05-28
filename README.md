@@ -6,6 +6,7 @@
 * [Daniel Lemire's blog](https://lemire.me/blog/)
 * [JabPerf](https://www.jabperf.com/blog/)
 * [EasyPerf - Denis Bakhvalov](https://easyperf.net/notes/)
+* [https://softwarebits.substack.com/](Software Bits Newsletter)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
