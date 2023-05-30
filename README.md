@@ -7,6 +7,7 @@
 * [JabPerf](https://www.jabperf.com/blog/)
 * [EasyPerf - Denis Bakhvalov](https://easyperf.net/notes/)
 * [https://softwarebits.substack.com/](Software Bits Newsletter)
+* [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
