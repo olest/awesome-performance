@@ -8,6 +8,7 @@
 * [EasyPerf - Denis Bakhvalov](https://easyperf.net/notes/)
 * [https://softwarebits.substack.com/](Software Bits Newsletter)
 * [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
+* [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
