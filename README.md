@@ -16,9 +16,10 @@
 * [SIMD for C++ developers](http://const.me/articles/simd/simd.pdf)
 * [Is Parallel Programming Hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf)
 
-## Performance counters
+## Profiling
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
 * [Intel Performance Counter Monitor](https://www.intel.com/content/www/us/en/developer/articles/technical/performance-counter-monitor.html)
+* [Tracy - a hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
