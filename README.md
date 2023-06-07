@@ -38,6 +38,7 @@
 * [Transparent huge pages](https://www.digitalocean.com/blog/transparent-huge-pages-and-alternative-memory-allocators)
 * [Linux weekly news on Transparent Huge pages](https://lwn.net/Articles/374424/)
 * [Using Huge Pages on Linux](https://rigtorp.se/hugepages/)
+* [TCMalloc and RocksDB](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
