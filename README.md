@@ -9,7 +9,7 @@
 * [https://softwarebits.substack.com/](Software Bits Newsletter)
 * [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
 * [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
-* [Wojciech Muła' blog](http://0x80.pl/notesen.html)
+* [Wojciech Muła - blog](http://0x80.pl/notesen.html)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
@@ -41,6 +41,7 @@
 * [Linux weekly news on Transparent Huge pages](https://lwn.net/Articles/374424/)
 * [Using Huge Pages on Linux](https://rigtorp.se/hugepages/)
 * [TCMalloc and RocksDB](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
+* [Sam on Memory allocation](https://samwho.dev/memory-allocation/)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
