@@ -52,6 +52,7 @@
 ## algorithms
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
 * [Sort benchmark](https://sortbenchmark.org/)
+* [Novel base64 implementation using lookup tables](https://github.com/npodonnell/fast-base64)
 
 
 
