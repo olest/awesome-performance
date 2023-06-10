@@ -21,6 +21,7 @@
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
 * [Intel Performance Counter Monitor](https://www.intel.com/content/www/us/en/developer/articles/technical/performance-counter-monitor.html)
 * [Tracy - a hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
+* [uftrace : function call graph tracer for C, C++, Rust and Python](https://github.com/namhyung/uftrace)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
