@@ -10,6 +10,7 @@
 * [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
 * [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
+* [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
@@ -23,6 +24,7 @@
 * [Tracy - a hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
 * [uftrace : function call graph tracer for C, C++, Rust and Python](https://github.com/namhyung/uftrace)
 * [Memray : memory profiler for Python](https://github.com/bloomberg/memray)
+* [MTuner:  C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms](https://github.com/milostosic/MTuner)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
