@@ -57,5 +57,8 @@
 * [Sort benchmark](https://sortbenchmark.org/)
 * [Novel base64 implementation using lookup tables](https://github.com/npodonnell/fast-base64)
 
+## Lectures or conference talks
+* [Performance Engineering of Software Systems - MIT Open Course Ware](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+
 
 
