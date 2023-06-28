@@ -46,6 +46,7 @@
 * [Using Huge Pages on Linux](https://rigtorp.se/hugepages/)
 * [TCMalloc and RocksDB](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
 * [Sam on Memory allocation](https://samwho.dev/memory-allocation/)
+* [Intel Cache Allocation Technology](https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
