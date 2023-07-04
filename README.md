@@ -52,6 +52,7 @@
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
 * [Open benchmarking](https://openbenchmarking.org/)
 * [Celero](https://github.com/DigitalInBlue/Celero)
+* [Folly - benchmarks](https://github.com/facebook/folly/blob/main/folly/docs/Benchmark.md)
 
 ## algorithms
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
