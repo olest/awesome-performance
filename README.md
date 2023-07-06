@@ -34,11 +34,14 @@
 * [On the cost of syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
 * [io_uring explained (unzip.dev)](https://unzip.dev/0x013-io_uring/)
 
+## Concurrency
+* [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
+
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
 * [Memory allocation](https://samwho.dev/memory-allocation/)
 * [Red Hat: Huge pages and transparent huge pages](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/performance_tuning_guide/s-memory-transhuge)
-* [Huge pages demo in Rust](https://github.com/evanj/hugepagedemo)
+* [Huge pages are a good idea](https://www.evanjones.ca/hugepages-are-a-good-idea.html)
 * [snmalloc high-performance allocator](https://github.com/microsoft/snmalloc)
 * [Determining whether an application has poor cache performance](https://developers.redhat.com/blog/2014/03/10/determining-whether-an-application-has-poor-cache-performance-2#)
 * [Transparent huge pages](https://www.digitalocean.com/blog/transparent-huge-pages-and-alternative-memory-allocators)
@@ -47,6 +50,7 @@
 * [TCMalloc and RocksDB](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
 * [Sam on Memory allocation](https://samwho.dev/memory-allocation/)
 * [Intel Cache Allocation Technology](https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html)
+* [JVM field guide memory](https://serce.me/posts/01-02-2023-jvm-field-guide-memory)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
