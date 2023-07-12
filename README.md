@@ -51,6 +51,7 @@
 * [Sam on Memory allocation](https://samwho.dev/memory-allocation/)
 * [Intel Cache Allocation Technology](https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html)
 * [JVM field guide memory](https://serce.me/posts/01-02-2023-jvm-field-guide-memory)
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
