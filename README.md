@@ -58,6 +58,7 @@
 * [Open benchmarking](https://openbenchmarking.org/)
 * [Celero](https://github.com/DigitalInBlue/Celero)
 * [Folly - benchmarks](https://github.com/facebook/folly/blob/main/folly/docs/Benchmark.md)
+* [Godbolt's Law](https://xania.org/200504/godbolt's-law)
 
 ## algorithms
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
