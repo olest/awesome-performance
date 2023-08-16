@@ -53,15 +53,17 @@
 * [Intel Cache Allocation Technology](https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html)
 * [JVM field guide memory](https://serce.me/posts/01-02-2023-jvm-field-guide-memory)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [Latency numbers every programmer should know](https://gist.github.com/jboner/2841832)
+* [Testing Memory Allocators](http://ithare.com/testing-memory-allocators-ptmalloc2-tcmalloc-hoard-jemalloc-while-trying-to-simulate-real-world-loads/)
 
-## benchmarks
+## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
 * [Open benchmarking](https://openbenchmarking.org/)
 * [Celero](https://github.com/DigitalInBlue/Celero)
 * [Folly - benchmarks](https://github.com/facebook/folly/blob/main/folly/docs/Benchmark.md)
 * [Godbolt's Law](https://xania.org/200504/godbolt's-law)
 
-## algorithms
+## Algorithms
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
 * [Sort benchmark](https://sortbenchmark.org/)
 * [Novel base64 implementation using lookup tables](https://github.com/npodonnell/fast-base64)
