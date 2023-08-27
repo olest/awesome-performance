@@ -55,6 +55,7 @@
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Latency numbers every programmer should know](https://gist.github.com/jboner/2841832)
 * [Testing Memory Allocators](http://ithare.com/testing-memory-allocators-ptmalloc2-tcmalloc-hoard-jemalloc-while-trying-to-simulate-real-world-loads/)
+* [Dmalloc - Debug Malloc Library](https://dmalloc.com/)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
