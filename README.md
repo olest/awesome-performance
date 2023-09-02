@@ -25,6 +25,7 @@
 * [uftrace : function call graph tracer for C, C++, Rust and Python](https://github.com/namhyung/uftrace)
 * [Memray : memory profiler for Python](https://github.com/bloomberg/memray)
 * [MTuner:  C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms](https://github.com/milostosic/MTuner)
+* [pmu tools : tools and libraries for profile collection and performance analysis on Intel CPUs](https://github.com/andikleen/pmu-tools)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
@@ -56,6 +57,7 @@
 * [Latency numbers every programmer should know](https://gist.github.com/jboner/2841832)
 * [Testing Memory Allocators](http://ithare.com/testing-memory-allocators-ptmalloc2-tcmalloc-hoard-jemalloc-while-trying-to-simulate-real-world-loads/)
 * [Dmalloc - Debug Malloc Library](https://dmalloc.com/)
+* [Memory management reading list](https://gist.github.com/simonrenger/d1da2a10d11f8a971fc6f1b574ab3e99)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
