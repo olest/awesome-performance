@@ -26,6 +26,7 @@
 * [Memray : memory profiler for Python](https://github.com/bloomberg/memray)
 * [MTuner:  C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms](https://github.com/milostosic/MTuner)
 * [pmu tools : tools and libraries for profile collection and performance analysis on Intel CPUs](https://github.com/andikleen/pmu-tools)
+* [Coz: Finding Code that Counts with Causal Profiling](https://github.com/plasma-umass/coz)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
