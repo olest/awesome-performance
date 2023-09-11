@@ -76,5 +76,8 @@
 ## Lectures or conference talks
 * [Performance Engineering of Software Systems - MIT Open Course Ware](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 
+## Journal articles or technical reports
+* [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
+
 
 
