@@ -40,6 +40,7 @@
 
 ## Concurrency
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
+* [core-to-core-latency: A Nice Little Tool!](https://pramodkumbhar.com/2023/09/core-to-core-latency-a-nice-little-tool/)
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
