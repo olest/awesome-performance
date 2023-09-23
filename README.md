@@ -36,6 +36,7 @@
 * [On the cost of syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
 * [io_uring explained (unzip.dev)](https://unzip.dev/0x013-io_uring/)
 * [linux-insides](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
+* [Interactive map of the Linux kernal](https://makelinux.github.io/kernel/map/)
 
 ## Concurrency
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
