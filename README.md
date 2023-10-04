@@ -62,6 +62,7 @@
 * [Dmalloc - Debug Malloc Library](https://dmalloc.com/)
 * [Memory management reading list](https://gist.github.com/simonrenger/d1da2a10d11f8a971fc6f1b574ab3e99)
 * [malloc_count - Tools for Runtime Memory Usage Analysis and Profiling](https://panthema.net/2013/malloc_count/)
+* [Heaptrack](https://github.com/KDE/heaptrack)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
