@@ -71,6 +71,7 @@
 * [Folly - benchmarks](https://github.com/facebook/folly/blob/main/folly/docs/Benchmark.md)
 * [Godbolt's Law](https://xania.org/200504/godbolt's-law)
 * [nanobench](https://github.com/martinus/nanobench)
+* [Flexible I/O Tester](https://github.com/axboe/fio)
 
 ## Algorithms
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
@@ -82,6 +83,10 @@
 
 ## Journal articles or technical reports
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
+
+## Static code analysis
+* [Cobra](https://github.com/nimble-code/Cobra/)
+* [Infer](https://github.com/facebook/infer)
 
 
 
