@@ -36,11 +36,12 @@
 * [On the cost of syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
 * [io_uring explained (unzip.dev)](https://unzip.dev/0x013-io_uring/)
 * [linux-insides](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
-* [Interactive map of the Linux kernal](https://makelinux.github.io/kernel/map/)
+* [Interactive map of the Linux kernel](https://makelinux.github.io/kernel/map/)
 
 ## Concurrency
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
 * [core-to-core-latency: A Nice Little Tool!](https://pramodkumbhar.com/2023/09/core-to-core-latency-a-nice-little-tool/)
+* [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
