@@ -17,6 +17,7 @@
 * [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
 * [SIMD for C++ developers](http://const.me/articles/simd/simd.pdf)
 * [Is Parallel Programming Hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf)
+* [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/home.html)
 
 ## Profiling
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
