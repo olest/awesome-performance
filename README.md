@@ -38,6 +38,7 @@
 * [io_uring explained (unzip.dev)](https://unzip.dev/0x013-io_uring/)
 * [linux-insides](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
 * [Interactive map of the Linux kernel](https://makelinux.github.io/kernel/map/)
+* [Controlling the page cache](https://alg-eng.blogspot.com/?m=1)
 
 ## Concurrency
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
@@ -65,6 +66,7 @@
 * [Memory management reading list](https://gist.github.com/simonrenger/d1da2a10d11f8a971fc6f1b574ab3e99)
 * [malloc_count - Tools for Runtime Memory Usage Analysis and Profiling](https://panthema.net/2013/malloc_count/)
 * [Heaptrack](https://github.com/KDE/heaptrack)
+* [Sneaky (transparent) huge pages](https://tbenthompson.com/post/sneaky-transparent-huge-pages/)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
