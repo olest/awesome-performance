@@ -77,6 +77,7 @@
 * [nanobench](https://github.com/martinus/nanobench)
 * [Flexible I/O Tester](https://github.com/axboe/fio)
 * [Cinebench 2024: Reviewing the Benchmark](https://chipsandcheese.com/2023/10/22/cinebench-2024-reviewing-the-benchmark/)
+* [sysbench - scriptable database and system performance benchmark](https://github.com/akopytov/sysbench)
 
 ## Algorithms
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
