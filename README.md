@@ -10,7 +10,7 @@
 * [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
 * [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
-* [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
+* [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)\
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
@@ -39,6 +39,7 @@
 * [linux-insides](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
 * [Interactive map of the Linux kernel](https://makelinux.github.io/kernel/map/)
 * [Controlling the page cache](https://alg-eng.blogspot.com/?m=1)
+* [How to troubleshoot high I/O wait time in Linux](https://www.site24x7.com/learn/linux/troubleshoot-high-io-wait.html)
 
 ## Concurrency
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
