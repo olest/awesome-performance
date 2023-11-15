@@ -28,6 +28,7 @@
 * [MTuner:  C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms](https://github.com/milostosic/MTuner)
 * [pmu tools : tools and libraries for profile collection and performance analysis on Intel CPUs](https://github.com/andikleen/pmu-tools)
 * [Coz: Finding Code that Counts with Causal Profiling](https://github.com/plasma-umass/coz)
+* [Laurence Tratt - four kinds of optimization](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
