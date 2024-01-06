@@ -10,7 +10,8 @@
 * [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
 * [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
-* [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)\
+* [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
+* [Computer, Enhance!](https://www.computerenhance.com/)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
