@@ -6,7 +6,7 @@
 * [Daniel Lemire's blog](https://lemire.me/blog/)
 * [JabPerf](https://www.jabperf.com/blog/)
 * [EasyPerf - Denis Bakhvalov](https://easyperf.net/notes/)
-* [https://softwarebits.substack.com/](Software Bits Newsletter)
+* [Software Bits Newsletter](https://softwarebits.substack.com)
 * [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
 * [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
@@ -19,6 +19,7 @@
 * [SIMD for C++ developers](http://const.me/articles/simd/simd.pdf)
 * [Is Parallel Programming Hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf)
 * [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/home.html)
+* [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 
 ## Profiling
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
@@ -34,7 +35,6 @@
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [4Kb page size is obsolete](https://ieeexplore.ieee.org/abstract/document/5211562)
 * [On the cost of syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
 * [io_uring explained (unzip.dev)](https://unzip.dev/0x013-io_uring/)
@@ -47,6 +47,9 @@
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
 * [core-to-core-latency: A Nice Little Tool!](https://pramodkumbhar.com/2023/09/core-to-core-latency-a-nice-little-tool/)
 * [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
+
+## Compilers
+* [Don't use the likely or unlikely attributes](https://johnnysswlab.com/horrible-code-clean-performance/)
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
@@ -70,6 +73,7 @@
 * [malloc_count - Tools for Runtime Memory Usage Analysis and Profiling](https://panthema.net/2013/malloc_count/)
 * [Heaptrack](https://github.com/KDE/heaptrack)
 * [Sneaky (transparent) huge pages](https://tbenthompson.com/post/sneaky-transparent-huge-pages/)
+* [SRE deep dive into page cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
