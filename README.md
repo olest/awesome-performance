@@ -51,7 +51,8 @@
 * [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
 
 ## Compilers
-* [Don't use the likely or unlikely attributes](https://johnnysswlab.com/horrible-code-clean-performance/)
+* [Horrible code - clean performance](https://johnnysswlab.com/horrible-code-clean-performance/)
+* [Don't use the likely or unlikely attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
