@@ -32,6 +32,7 @@
 * [Coz: Finding Code that Counts with Causal Profiling](https://github.com/plasma-umass/coz)
 * [Laurence Tratt - four kinds of optimization](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [cpplinks - performance](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
+* [firefox profiler](https://profiler.firefox.com/)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
