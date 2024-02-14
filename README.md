@@ -90,6 +90,7 @@
 * [sysbench - scriptable database and system performance benchmark](https://github.com/akopytov/sysbench)
 * [All Measurements are Wrong - Guerilla Aphorisms](http://www.perfdynamics.com/Manifesto/gcaprules.html#tth_sEc2.25)
 * [bonnie++](https://www.coker.com.au/bonnie++/)
+* [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
 
 ## Algorithms
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
