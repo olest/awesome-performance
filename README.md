@@ -33,6 +33,7 @@
 * [Laurence Tratt - four kinds of optimization](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [cpplinks - performance](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 * [firefox profiler](https://profiler.firefox.com/)
+* [Bloaty: a size profiler for binaries](https://github.com/google/bloaty)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
