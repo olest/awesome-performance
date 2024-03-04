@@ -34,6 +34,7 @@
 * [cpplinks - performance](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 * [firefox profiler](https://profiler.firefox.com/)
 * [Bloaty: a size profiler for binaries](https://github.com/google/bloaty)
+* [Advanced usage of last branch records](https://lwn.net/Articles/680996/)
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
