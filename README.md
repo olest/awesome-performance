@@ -35,6 +35,9 @@
 * [firefox profiler](https://profiler.firefox.com/)
 * [Bloaty: a size profiler for binaries](https://github.com/google/bloaty)
 * [Advanced usage of last branch records](https://lwn.net/Articles/680996/)
+* [Terminal flame graph](https://github.com/4rtzel/tfg)
+* [Flameshow (Terminal Flamegraph viewer)](https://github.com/laixintao/flameshow)
+
 
 ## Operating systems
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
