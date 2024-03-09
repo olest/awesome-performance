@@ -83,6 +83,7 @@
 * [Heaptrack](https://github.com/KDE/heaptrack)
 * [Sneaky (transparent) huge pages](https://tbenthompson.com/post/sneaky-transparent-huge-pages/)
 * [SRE deep dive into page cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
+* [Memory Allocation Strategies - Part 1](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
@@ -115,3 +116,6 @@
 
 ## Programming languaes
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
+* [Python Speed Center](https://speed.python.org/about/)
+
+
