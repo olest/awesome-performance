@@ -37,6 +37,7 @@
 * [Advanced usage of last branch records](https://lwn.net/Articles/680996/)
 * [Terminal flame graph](https://github.com/4rtzel/tfg)
 * [Flameshow (Terminal Flamegraph viewer)](https://github.com/laixintao/flameshow)
+* [Google performance tools](https://github.com/gperftools/gperftools/)
 
 
 ## Operating systems
