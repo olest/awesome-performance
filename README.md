@@ -12,6 +12,7 @@
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
 * [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 * [Computer, Enhance!](https://www.computerenhance.com/)
+* [Performance Engineering For Parallel Applications](https://pramodkumbhar.com/)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
@@ -38,6 +39,7 @@
 * [Terminal flame graph](https://github.com/4rtzel/tfg)
 * [Flameshow (Terminal Flamegraph viewer)](https://github.com/laixintao/flameshow)
 * [Google performance tools](https://github.com/gperftools/gperftools/)
+* [Performance Myths and Continuous Profiling](https://richardstartin.github.io/posts/perf-myths-and-continuous-profiling)
 
 
 ## Operating systems
@@ -50,6 +52,7 @@
 * [Interactive map of the Linux kernel](https://makelinux.github.io/kernel/map/)
 * [Controlling the page cache](https://alg-eng.blogspot.com/?m=1)
 * [How to troubleshoot high I/O wait time in Linux](https://www.site24x7.com/learn/linux/troubleshoot-high-io-wait.html)
+* [Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 
 ## Concurrency
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
@@ -85,6 +88,7 @@
 * [Sneaky (transparent) huge pages](https://tbenthompson.com/post/sneaky-transparent-huge-pages/)
 * [SRE deep dive into page cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
 * [Memory Allocation Strategies - Part 1](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/)
+* [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
@@ -99,11 +103,13 @@
 * [All Measurements are Wrong - Guerilla Aphorisms](http://www.perfdynamics.com/Manifesto/gcaprules.html#tth_sEc2.25)
 * [bonnie++](https://www.coker.com.au/bonnie++/)
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
+* [AnandTech 2021 SSD Benchmark Suite](https://www.anandtech.com/show/16458/2021-ssd-benchmark-suite)
 
-## Algorithms
+## Algorithms and data structures
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
 * [Sort benchmark](https://sortbenchmark.org/)
 * [Novel base64 implementation using lookup tables](https://github.com/npodonnell/fast-base64)
+* [Open Data Structures - an open content textbook](https://opendatastructures.org/)
 
 ## Lectures or conference talks
 * [Performance Engineering of Software Systems - MIT Open Course Ware](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
@@ -115,8 +121,10 @@
 * [Cobra](https://github.com/nimble-code/Cobra/)
 * [Infer](https://github.com/facebook/infer)
 
-## Programming languaes
+## Programming languages
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
 * [Python Speed Center](https://speed.python.org/about/)
 
+## Machine learning
+* [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 
