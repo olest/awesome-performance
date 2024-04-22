@@ -40,6 +40,7 @@
 * [Flameshow (Terminal Flamegraph viewer)](https://github.com/laixintao/flameshow)
 * [Google performance tools](https://github.com/gperftools/gperftools/)
 * [Performance Myths and Continuous Profiling](https://richardstartin.github.io/posts/perf-myths-and-continuous-profiling)
+* [strace cheatsheet](https://blog.packagecloud.io/strace-cheat-sheet/)
 
 
 ## Operating systems
@@ -104,6 +105,7 @@
 * [bonnie++](https://www.coker.com.au/bonnie++/)
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
 * [AnandTech 2021 SSD Benchmark Suite](https://www.anandtech.com/show/16458/2021-ssd-benchmark-suite)
+* [A cross-platform C library to retrieve CPU feature](https://github.com/google/cpu_features)
 
 ## Algorithms and data structures
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
