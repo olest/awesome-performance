@@ -105,7 +105,8 @@
 * [bonnie++](https://www.coker.com.au/bonnie++/)
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
 * [AnandTech 2021 SSD Benchmark Suite](https://www.anandtech.com/show/16458/2021-ssd-benchmark-suite)
-* [A cross-platform C library to retrieve CPU feature](https://github.com/google/cpu_features)
+* [A cross-platform C library to retrieve CPU features](https://github.com/google/cpu_features)
+* [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 
 ## Algorithms and data structures
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
