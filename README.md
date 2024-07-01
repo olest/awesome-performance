@@ -42,6 +42,7 @@
 * [Performance Myths and Continuous Profiling](https://richardstartin.github.io/posts/perf-myths-and-continuous-profiling)
 * [strace cheatsheet](https://blog.packagecloud.io/strace-cheat-sheet/)
 * [GWPSan: Sampling-Based Sanitizer Framework](https://github.com/google/gwpsan)
+* [magic-trace](https://github.com/janestreet/magic-trace)
 
 
 ## Operating systems
