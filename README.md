@@ -121,6 +121,7 @@
 
 ## Journal articles or technical reports
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
+* [John Ousterhout: Always measure one level deeper](https://cacm.acm.org/research/always-measure-one-level-deeper/)
 
 ## Static code analysis
 * [Cobra](https://github.com/nimble-code/Cobra/)
