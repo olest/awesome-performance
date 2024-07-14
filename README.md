@@ -43,6 +43,7 @@
 * [strace cheatsheet](https://blog.packagecloud.io/strace-cheat-sheet/)
 * [GWPSan: Sampling-Based Sanitizer Framework](https://github.com/google/gwpsan)
 * [magic-trace](https://github.com/janestreet/magic-trace)
+* [0x.tools - X-Ray vision for Linux systems](https://0x.tools/)
 
 
 ## Operating systems
