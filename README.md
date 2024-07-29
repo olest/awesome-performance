@@ -13,6 +13,7 @@
 * [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 * [Computer, Enhance!](https://www.computerenhance.com/)
 * [Performance Engineering For Parallel Applications](https://pramodkumbhar.com/)
+* [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
