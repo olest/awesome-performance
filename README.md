@@ -127,6 +127,7 @@
 ## Journal articles or technical reports
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
 * [John Ousterhout: Always measure one level deeper](https://cacm.acm.org/research/always-measure-one-level-deeper/)
+* [NanoLog: A Nanosecond Scale Logging System](https://www.usenix.org/system/files/conference/atc18/atc18-yang.pdf)
 
 ## Static code analysis
 * [Cobra](https://github.com/nimble-code/Cobra/)
