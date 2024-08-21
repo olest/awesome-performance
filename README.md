@@ -95,6 +95,7 @@
 * [SRE deep dive into page cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
 * [Memory Allocation Strategies - Part 1](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/)
 * [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
+* [Pagemon - browse the memory map of an active running process](https://github.com/ColinIanKing/pagemon)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
