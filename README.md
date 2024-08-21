@@ -14,6 +14,7 @@
 * [Computer, Enhance!](https://www.computerenhance.com/)
 * [Performance Engineering For Parallel Applications](https://pramodkumbhar.com/)
 * [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
+* [n0derunner - platform performance](https://www.n0derunner.com/)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
