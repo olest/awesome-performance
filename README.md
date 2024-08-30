@@ -47,6 +47,7 @@
 * [magic-trace](https://github.com/janestreet/magic-trace)
 * [0x.tools - X-Ray vision for Linux systems](https://0x.tools/)
 * [health-check](https://github.com/ColinIanKing/health-check)
+* [Profile-Guided Optimization: A Hands-On Guide](https://israelo.io/blog/pgo/)
 
 
 ## Operating systems
