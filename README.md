@@ -115,6 +115,7 @@
 * [AnandTech 2021 SSD Benchmark Suite](https://www.anandtech.com/show/16458/2021-ssd-benchmark-suite)
 * [A cross-platform C library to retrieve CPU features](https://github.com/google/cpu_features)
 * [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
+* [comprehensive set of IO benchmarks for Linux and OS X](https://github.com/adityaramesh/io_benchmark/)
 
 ## Algorithms and data structures
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
