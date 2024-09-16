@@ -16,6 +16,10 @@
 * [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 * [n0derunner - platform performance](https://www.n0derunner.com/)
 
+## Libraries
+* [fast_float](https://github.com/fastfloat/fast_float)
+* [fast base64 conversion](https://github.com/simdutf/simdutf)
+
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
