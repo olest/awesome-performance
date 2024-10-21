@@ -16,6 +16,7 @@
 * [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 * [n0derunner - platform performance](https://www.n0derunner.com/)
 * [marek.ai](https://marek.ai/matrix-multiplication-on-cpu.html)
+* [justinblank.com](https://justinblank.com/notebooks/benchmarking.html)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
