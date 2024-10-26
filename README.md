@@ -17,6 +17,7 @@
 * [n0derunner - platform performance](https://www.n0derunner.com/)
 * [marek.ai](https://marek.ai/matrix-multiplication-on-cpu.html)
 * [justinblank.com](https://justinblank.com/notebooks/benchmarking.html)
+* [Israel Ogbole : Profile-Guided Optimization: A Hands-On Guide to Reducing Computational Wastage](https://israelo.io/blog/pgo/)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
