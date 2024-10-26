@@ -106,6 +106,7 @@
 * [Memory Allocation Strategies - Part 1](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/)
 * [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 * [Pagemon - browse the memory map of an active running process](https://github.com/ColinIanKing/pagemon)
+* [Poul-Henning Kamp - Malloc(3) in modern Virtual Memory environments](https://docs-archive.freebsd.org/44doc/papers/malloc.pdf)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
