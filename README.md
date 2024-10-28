@@ -18,6 +18,7 @@
 * [marek.ai](https://marek.ai/matrix-multiplication-on-cpu.html)
 * [justinblank.com](https://justinblank.com/notebooks/benchmarking.html)
 * [Israel Ogbole : Profile-Guided Optimization: A Hands-On Guide to Reducing Computational Wastage](https://israelo.io/blog/pgo/)
+* [Confessions of a Code Addict](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
