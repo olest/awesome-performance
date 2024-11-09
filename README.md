@@ -154,3 +154,6 @@
 ## Machine learning
 * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 
+
+## I/O
+* [Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
