@@ -141,6 +141,10 @@
 
 ## Lectures or conference talks
 * [Performance Engineering of Software Systems - MIT Open Course Ware](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+* [CppCon 2014: Mike Acton on 'Data-Oriented Design'](https://youtu.be/rX0ItVEVjHc)
+* [CppCon 2014: Chander Charruth on 'Efficiency with Algorithms, Performance with Data Structures'](https://youtu.be/fHNmRkzxHWs)
+* [Casey Muratori: Simple Code, High Performance](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
+* [Software Optimizations Become Simple with Top-Down Analysis on Intel Skylake - Ahmad Yasin](https://www.youtube.com/watch?v=kjufVhyuV_A)
 
 ## Journal articles or technical reports
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
