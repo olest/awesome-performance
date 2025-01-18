@@ -20,6 +20,7 @@
 * [Israel Ogbole : Profile-Guided Optimization: A Hands-On Guide to Reducing Computational Wastage](https://israelo.io/blog/pgo/)
 * [Confessions of a Code Addict](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [Modern Hardware Numbers for System Design Interviews](https://hellointerview.substack.com/p/modern-hardware-numbers-for-system)
+* [uops.info](https://uops.info/)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
@@ -32,6 +33,7 @@
 * [Is Parallel Programming Hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf)
 * [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/home.html)
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+* [How to make things faster](https://method-r.com/books/faster/)
 
 ## Profiling
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
