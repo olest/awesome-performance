@@ -19,6 +19,7 @@
 * [justinblank.com](https://justinblank.com/notebooks/benchmarking.html)
 * [Israel Ogbole : Profile-Guided Optimization: A Hands-On Guide to Reducing Computational Wastage](https://israelo.io/blog/pgo/)
 * [Confessions of a Code Addict](https://blog.codingconfessions.com/p/simultaneous-multithreading)
+* [Modern Hardware Numbers for System Design Interviews](https://hellointerview.substack.com/p/modern-hardware-numbers-for-system)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
@@ -154,7 +155,6 @@
 
 ## Machine learning
 * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
-
 
 ## I/O
 * [Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
