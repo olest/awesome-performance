@@ -21,6 +21,8 @@
 * [Confessions of a Code Addict](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [Modern Hardware Numbers for System Design Interviews](https://hellointerview.substack.com/p/modern-hardware-numbers-for-system)
 * [uops.info](https://uops.info/)
+* [Stephan's blog - perf tool examples](https://dollberg.xyz/programming/2016/07/02/perf-tool/)
+* [Redpanda blog](https://www.redpanda.com/blog/always-on-production-memory-profiling-seastar)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
