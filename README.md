@@ -148,6 +148,7 @@
 * [CppCon 2014: Chander Charruth on 'Efficiency with Algorithms, Performance with Data Structures'](https://youtu.be/fHNmRkzxHWs)
 * [Casey Muratori: Simple Code, High Performance](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
 * [Software Optimizations Become Simple with Top-Down Analysis on Intel Skylake - Ahmad Yasin](https://www.youtube.com/watch?v=kjufVhyuV_A)
+* [Brendan Gregg: Kernel Recipes 2023 - Fast by Friday: Why Kernel Superpowers are Essential](https://www.youtube.com/watch?v=XudHNF4k_x0)
 
 ## Journal articles or technical reports
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
