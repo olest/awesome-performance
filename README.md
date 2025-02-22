@@ -172,3 +172,6 @@
 
 ## I/O
 * [Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
+
+## GPU acceleration
+* [Huggingface - The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
