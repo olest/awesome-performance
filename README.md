@@ -23,6 +23,7 @@
 * [uops.info](https://uops.info/)
 * [Stephan's blog - perf tool examples](https://dollberg.xyz/programming/2016/07/02/perf-tool/)
 * [Redpanda blog](https://www.redpanda.com/blog/always-on-production-memory-profiling-seastar)
+* [John Farrier - For Software Engineers](https://johnfarrier.com/c-performance-checklist-for-low-latency-systems/?utm_source=rss&utm_medium=rss&utm_campaign=c-performance-checklist-for-low-latency-systems)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
@@ -175,3 +176,7 @@
 
 ## GPU acceleration
 * [Huggingface - The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+
+## Tools & Observability
+* [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
+
