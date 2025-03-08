@@ -24,6 +24,7 @@
 * [Stephan's blog - perf tool examples](https://dollberg.xyz/programming/2016/07/02/perf-tool/)
 * [Redpanda blog](https://www.redpanda.com/blog/always-on-production-memory-profiling-seastar)
 * [John Farrier - For Software Engineers](https://johnfarrier.com/c-performance-checklist-for-low-latency-systems/?utm_source=rss&utm_medium=rss&utm_campaign=c-performance-checklist-for-low-latency-systems)
+* [The Every Computer Performance Blog](https://rwwescott.wordpress.com/)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
