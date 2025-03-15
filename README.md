@@ -93,6 +93,7 @@
 * [Horrible code - clean performance](https://johnnysswlab.com/horrible-code-clean-performance/)
 * [Don't use the likely or unlikely attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
 * [mold: A Modern Linker](https://github.com/rui314/mold)
+* [Intel Implicit SPMD Program Compiler](https://ispc.github.io/)
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
