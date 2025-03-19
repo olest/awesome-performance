@@ -178,6 +178,9 @@
 
 ## GPU acceleration
 * [Huggingface - The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+* [Outperforming cuBLAS on H100](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
+* [Pingpong GEMM from scratch](https://github.com/bertmaher/simplegemm)
+* [leetgpu](https://leetgpu.com/)
 
 ## Tools & Observability
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
