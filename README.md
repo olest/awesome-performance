@@ -141,6 +141,7 @@
 * [A cross-platform C library to retrieve CPU features](https://github.com/google/cpu_features)
 * [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 * [comprehensive set of IO benchmarks for Linux and OS X](https://github.com/adityaramesh/io_benchmark/)
+* [hyperfine - a command-line benchmarking tool in Rust](https://github.com/sharkdp/hyperfine)
 
 ## Algorithms and data structures
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
