@@ -186,4 +186,5 @@
 
 ## Tools & Observability
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
+* [xCapture v3 :  Linux Performance Analysis with Modern eBPF and DuckDB](https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/) 
 
