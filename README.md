@@ -30,6 +30,7 @@
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
 * [fast base64 conversion](https://github.com/simdutf/simdutf)
+* [qiti - brings profiling and instrumentation directly into your unit tests](https://github.com/ComposerShield/qiti)
 
 ## Books
 * [High Performance Browser Networking](https://hpbn.co/)
