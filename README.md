@@ -185,6 +185,8 @@
 * [Outperforming cuBLAS on H100](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
 * [Pingpong GEMM from scratch](https://github.com/bertmaher/simplegemm)
 * [leetgpu](https://leetgpu.com/)
+* [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
+* [Advanced NVIDIA CUDA Kernel Optimization Techniques](https://developer.nvidia.com/blog/advanced-nvidia-cuda-kernel-optimization-techniques-handwritten-ptx/)
 
 ## Tools & Observability
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
