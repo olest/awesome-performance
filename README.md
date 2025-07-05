@@ -124,6 +124,7 @@
 * [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 * [Pagemon - browse the memory map of an active running process](https://github.com/ColinIanKing/pagemon)
 * [Poul-Henning Kamp - Malloc(3) in modern Virtual Memory environments](https://docs-archive.freebsd.org/44doc/papers/malloc.pdf)
+* [How Does the Memory Management Unit (MMU) Work with the Unix/Linux Kernel?](https://chessman7.substack.com/p/how-does-the-memory-management-unit)
 
 ## Benchmarks
 * [Mastering C++ with Google Benchmark](https://ashvardanian.com/posts/google-benchmark/)
