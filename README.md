@@ -26,6 +26,8 @@
 * [John Farrier - For Software Engineers](https://johnfarrier.com/c-performance-checklist-for-low-latency-systems/?utm_source=rss&utm_medium=rss&utm_campaign=c-performance-checklist-for-low-latency-systems)
 * [The Every Computer Performance Blog](https://rwwescott.wordpress.com/)
 * [Martin Ayvazyan - Advanced C++ Optimization Techniques](https://medium.com/@martin00001313/advanced-c-optimization-techniques-for-high-performance-applications-part-3-4602df9284d8)
+* [Chris Feilbach's Blog](https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/)
+* [Performance Engineers Digest](https://substack.com/home/post/p-170692740)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
