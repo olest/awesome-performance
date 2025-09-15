@@ -163,6 +163,7 @@
 * [Casey Muratori: Simple Code, High Performance](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
 * [Software Optimizations Become Simple with Top-Down Analysis on Intel Skylake - Ahmad Yasin](https://www.youtube.com/watch?v=kjufVhyuV_A)
 * [Brendan Gregg: Kernel Recipes 2023 - Fast by Friday: Why Kernel Superpowers are Essential](https://www.youtube.com/watch?v=XudHNF4k_x0)
+* [Kris Jusiak : Performance is not a number](https://kris-jusiak.github.io/talks/cppcon-2025/#/)
 
 ## Journal articles or technical reports
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
@@ -195,4 +196,5 @@
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
 * [xCapture v3 :  Linux Performance Analysis with Modern eBPF and DuckDB](https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/) 
 * [Measuring workloads with toplev](https://github.com/andikleen/pmu-tools/wiki/toplev-manual)
+* [perf: C++23 Performance library](https://github.com/qlibs/perf)
 
