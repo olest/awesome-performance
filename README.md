@@ -28,6 +28,7 @@
 * [Martin Ayvazyan - Advanced C++ Optimization Techniques](https://medium.com/@martin00001313/advanced-c-optimization-techniques-for-high-performance-applications-part-3-4602df9284d8)
 * [Chris Feilbach's Blog](https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/)
 * [Performance Engineers Digest](https://substack.com/home/post/p-170692740)
+* [Ahmad Yasin : perf-tools](https://sites.google.com/site/analysismethods/yasin-pubs)
 
 ## Libraries
 * [fast_float](https://github.com/fastfloat/fast_float)
@@ -197,4 +198,5 @@
 * [xCapture v3 :  Linux Performance Analysis with Modern eBPF and DuckDB](https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/) 
 * [Measuring workloads with toplev](https://github.com/andikleen/pmu-tools/wiki/toplev-manual)
 * [perf: C++23 Performance library](https://github.com/qlibs/perf)
+* [likwid performance tools](https://github.com/RRZE-HPC/likwid?tab=readme-ov-file)
 
