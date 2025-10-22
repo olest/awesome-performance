@@ -74,6 +74,7 @@
 * [Profile-Guided Optimization: A Hands-On Guide](https://israelo.io/blog/pgo/)
 * [Performance tuning tutorial](https://github.com/NAThompson/performance_tuning_tutorial)
 * [Useful web sites about the Linux perf tools](https://perfwiki.github.io/main/useful-links/)
+* [aperf - A CLI tool to gather performance data and visualize using HTML graphs](https://github.com/aws/aperf)
 
 
 ## Operating systems
