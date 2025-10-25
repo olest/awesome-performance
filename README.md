@@ -75,6 +75,7 @@
 * [Performance tuning tutorial](https://github.com/NAThompson/performance_tuning_tutorial)
 * [Useful web sites about the Linux perf tools](https://perfwiki.github.io/main/useful-links/)
 * [aperf - A CLI tool to gather performance data and visualize using HTML graphs](https://github.com/aws/aperf)
+* [hotpath - find and profile bottlenecks in Rust](https://github.com/pawurb/hotpath)
 
 
 ## Operating systems
