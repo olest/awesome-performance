@@ -29,6 +29,7 @@
 * [The Every Computer Performance Blog](https://rwwescott.wordpress.com/)
 * [uops.info](https://uops.info/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
+* [purplesyringa - Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 
 ## Libraries
 * [fast base64 conversion](https://github.com/simdutf/simdutf)
@@ -76,6 +77,7 @@
 * [Tracy - a hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
 * [uftrace : function call graph tracer for C, C++, Rust and Python](https://github.com/namhyung/uftrace)
 * [Useful web sites about the Linux perf tools](https://perfwiki.github.io/main/useful-links/)
+* [llvm-mca - LLVM Machine Code Analyzer](https://llvm.org/docs/CommandGuide/llvm-mca.html)
 
 
 ## Operating systems
