@@ -31,6 +31,7 @@
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
 * [purplesyringa - Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [mcyoung - designing a simd algorithm from scratch](https://mcyoung.xyz/2023/11/27/simd-base64)
+* [daniellockyer/awesome-performance](https://github.com/daniellockyer/awesome-performance)
 
 ## Libraries
 * [fast base64 conversion](https://github.com/simdutf/simdutf)
