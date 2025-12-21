@@ -2,6 +2,7 @@
 
 ## Blogs
 * [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
+* [Abseil.io - Performance Hints](https://abseil.io/fast/hints.html)
 * [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
 * [Ahmad Yasin : perf-tools](https://sites.google.com/site/analysismethods/yasin-pubs)
 * [Brendan Gregg's Blog](https://www.brendangregg.com/blog/index.html)
