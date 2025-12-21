@@ -164,6 +164,7 @@
 * [Novel base64 implementation using lookup tables](https://github.com/npodonnell/fast-base64)
 * [Open Data Structures - an open content textbook](https://opendatastructures.org/)
 * [Sort benchmark](https://sortbenchmark.org/)
+* [Data Structures in Practice - A Hardware-Aware Approach for System Software Engineers](https://github.com/djiangtw/data-structures-in-practice-public)
 
 ## Lectures or conference talks
 * [Brendan Gregg: Kernel Recipes 2023 - Fast by Friday: Why Kernel Superpowers are Essential](https://www.youtube.com/watch?v=XudHNF4k_x0)
