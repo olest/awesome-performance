@@ -137,6 +137,7 @@
 * [Transparent huge pages](https://www.digitalocean.com/blog/transparent-huge-pages-and-alternative-memory-allocators)
 * [Using Huge Pages on Linux](https://rigtorp.se/hugepages/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [Dan Luu - Malloc tutorial](https://danluu.com/malloc-tutorial/)
 
 ## Benchmarks
 * [A cross-platform C library to retrieve CPU features](https://github.com/google/cpu_features)
@@ -179,6 +180,7 @@
 * [John Ousterhout: Always measure one level deeper](https://cacm.acm.org/research/always-measure-one-level-deeper/)
 * [NanoLog: A Nanosecond Scale Logging System](https://www.usenix.org/system/files/conference/atc18/atc18-yang.pdf)
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
+* [Li et al: Eliminate Branches by Melding IR Instructions](https://arxiv.org/abs/2512.22390)
 
 ## Static code analysis
 * [Cobra](https://github.com/nimble-code/Cobra/)
