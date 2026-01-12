@@ -196,6 +196,7 @@
 
 ## I/O
 * [Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
+* [O_DIRECT - The Problem That Grew Up With Multi-Threading](https://zazolabs.com/odirect-the-problem-that-grew-up/)
 
 ## GPU acceleration
 * [Advanced NVIDIA CUDA Kernel Optimization Techniques](https://developer.nvidia.com/blog/advanced-nvidia-cuda-kernel-optimization-techniques-handwritten-ptx/)
@@ -204,6 +205,9 @@
 * [leetgpu](https://leetgpu.com/)
 * [Outperforming cuBLAS on H100](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
 * [Pingpong GEMM from scratch](https://github.com/bertmaher/simplegemm)
+* [Performance Engineering for AI Infra](https://github.com/wafer-ai/gpu-perf-engineering-resources?tab=readme-ov-file)
+* [AMD GPUs go brr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
+* [How to scale your model](https://jax-ml.github.io/scaling-book/)
 
 ## Tools & Observability
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
