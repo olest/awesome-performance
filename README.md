@@ -190,6 +190,7 @@
 ## Programming languages
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
 * [Python Speed Center](https://speed.python.org/about/)
+* [Modern C++ Features for high performance low latency systems](https://github.com/leannejdong/lowlat)
 
 ## Machine learning
 * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
