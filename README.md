@@ -144,6 +144,7 @@
 * [A cross-platform C library to retrieve CPU features](https://github.com/google/cpu_features)
 * [All Measurements are Wrong - Guerilla Aphorisms](http://www.perfdynamics.com/Manifesto/gcaprules.html#tth_sEc2.25)
 * [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
+* [Performance and Benchmarking - Beyond the Bottleneck: From Classic Systems to Modern AI and HPC](https://github.com/djiangtw/performance-and-benchmarking-public)
 * [AnandTech 2021 SSD Benchmark Suite](https://www.anandtech.com/show/16458/2021-ssd-benchmark-suite)
 * [bonnie++](https://www.coker.com.au/bonnie++/)
 * [Celero](https://github.com/DigitalInBlue/Celero)
@@ -182,6 +183,7 @@
 * [NanoLog: A Nanosecond Scale Logging System](https://www.usenix.org/system/files/conference/atc18/atc18-yang.pdf)
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
 * [Li et al: Eliminate Branches by Melding IR Instructions](https://arxiv.org/abs/2512.22390)
+
 
 ## Static code analysis
 * [Cobra](https://github.com/nimble-code/Cobra/)
