@@ -168,6 +168,7 @@
 * [Open Data Structures - an open content textbook](https://opendatastructures.org/)
 * [Sort benchmark](https://sortbenchmark.org/)
 * [Data Structures in Practice - A Hardware-Aware Approach for System Software Engineers](https://github.com/djiangtw/data-structures-in-practice-public)
+* [One Billion Row Challenge - C++ Implementation](https://github.com/graphicsMan/1brc)
 
 ## Lectures or conference talks
 * [Brendan Gregg: Kernel Recipes 2023 - Fast by Friday: Why Kernel Superpowers are Essential](https://www.youtube.com/watch?v=XudHNF4k_x0)
