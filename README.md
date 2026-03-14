@@ -178,6 +178,7 @@
 * [Kris Jusiak : Performance is not a number](https://kris-jusiak.github.io/talks/cppcon-2025/#/)
 * [Performance Engineering of Software Systems - MIT Open Course Ware](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 * [Software Optimizations Become Simple with Top-Down Analysis on Intel Skylake - Ahmad Yasin](https://www.youtube.com/watch?v=kjufVhyuV_A)
+* [Visualizing Performance - The Developers’ Guide to Flame Graphs • Brendan Gregg • YOW! 2022](https://www.youtube.com/watch?v=VMpTU15rIZY)
 
 ## Journal articles or technical reports
 * [John Ousterhout: Always measure one level deeper](https://cacm.acm.org/research/always-measure-one-level-deeper/)
@@ -218,4 +219,5 @@
 * [likwid performance tools](https://github.com/RRZE-HPC/likwid?tab=readme-ov-file)
 * [Measuring workloads with toplev](https://github.com/andikleen/pmu-tools/wiki/toplev-manual)
 * [perf: C++23 Performance library](https://github.com/qlibs/perf)
+* [Julia Evans - Profiling and Tracing with perf](https://jvns.ca/perf-zine.pdf)
 * [xCapture v3 :  Linux Performance Analysis with Modern eBPF and DuckDB](https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/)
