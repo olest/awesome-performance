@@ -186,7 +186,6 @@
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
 * [Li et al: Eliminate Branches by Melding IR Instructions](https://arxiv.org/abs/2512.22390)
 
-
 ## Static code analysis
 * [Cobra](https://github.com/nimble-code/Cobra/)
 * [Infer](https://github.com/facebook/infer)
@@ -221,3 +220,6 @@
 * [perf: C++23 Performance library](https://github.com/qlibs/perf)
 * [Julia Evans - Profiling and Tracing with perf](https://jvns.ca/perf-zine.pdf)
 * [xCapture v3 :  Linux Performance Analysis with Modern eBPF and DuckDB](https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/)
+
+## CPU
+* [leetcpu](https://www.leetcpu.com/)
