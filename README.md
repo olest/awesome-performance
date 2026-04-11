@@ -213,6 +213,7 @@
 * [Performance Engineering for AI Infra](https://github.com/wafer-ai/gpu-perf-engineering-resources?tab=readme-ov-file)
 * [AMD GPUs go brr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
 * [How to scale your model](https://jax-ml.github.io/scaling-book/)
+* [GPU concepts: Visual Learning](https://brrrviz.com/)
 
 ## Tools & Observability
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
