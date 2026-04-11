@@ -139,6 +139,7 @@
 * [Using Huge Pages on Linux](https://rigtorp.se/hugepages/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Dan Luu - Malloc tutorial](https://danluu.com/malloc-tutorial/)
+* [Cache simulator](https://courses.cs.washington.edu/courses/cse351/cachesim/)
 
 ## Benchmarks
 * [A cross-platform C library to retrieve CPU features](https://github.com/google/cpu_features)
