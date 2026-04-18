@@ -98,6 +98,7 @@
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
 * [Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [vock - lightweight, wrapper-based kernel coverage viewer](https://github.com/kzall0c/vock)
+* [CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/schedule.html)
 
 ## Concurrency
 * [core-to-core-latency: A Nice Little Tool!](https://pramodkumbhar.com/2023/09/core-to-core-latency-a-nice-little-tool/)
