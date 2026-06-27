@@ -82,6 +82,7 @@
 * [uftrace : function call graph tracer for C, C++, Rust and Python](https://github.com/namhyung/uftrace)
 * [Useful web sites about the Linux perf tools](https://perfwiki.github.io/main/useful-links/)
 * [llvm-mca - LLVM Machine Code Analyzer](https://llvm.org/docs/CommandGuide/llvm-mca.html)
+* [Tuning a server for benchmarking](https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/)
 
 
 ## Operating systems
