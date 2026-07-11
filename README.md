@@ -34,6 +34,7 @@
 * [mcyoung - designing a simd algorithm from scratch](https://mcyoung.xyz/2023/11/27/simd-base64)
 * [daniellockyer/awesome-performance](https://github.com/daniellockyer/awesome-performance)
 * [A Short History of Performance Engineering](https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering/)
+* [Processing Billions of Integers: A Lesson in Memory Efficiency and Bit Manipulation](https://lab.embedinker.com/coding/processing-billions-of-integers-memory-efficiency/)
 
 ## Libraries
 * [fast base64 conversion](https://github.com/simdutf/simdutf)
