@@ -216,6 +216,7 @@
 * [AMD GPUs go brr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
 * [How to scale your model](https://jax-ml.github.io/scaling-book/)
 * [GPU concepts: Visual Learning](https://brrrviz.com/)
+* [Modern GPU Programming For MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
 
 ## Tools & Observability
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
