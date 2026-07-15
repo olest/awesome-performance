@@ -106,6 +106,7 @@
 * [core-to-core-latency: A Nice Little Tool!](https://pramodkumbhar.com/2023/09/core-to-core-latency-a-nice-little-tool/)
 * [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
+* [ForkUnion](https://github.com/ashvardanian/ForkUnion)
 
 ## Compilers
 * [Don't use the likely or unlikely attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
