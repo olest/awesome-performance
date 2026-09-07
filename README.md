@@ -1,8 +1,8 @@
 # Awesome performance and low-level programming links
-
 ## Blogs
-* [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
+* [A Short History of Performance Engineering](https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering/)
 * [Abseil.io - Performance Hints](https://abseil.io/fast/hints.html)
+* [Abseil.io - Performance Tips of Week](https://abseil.io/fast/)
 * [Agner Fog - Software optimization resources](https://www.agner.org/optimize/)
 * [Ahmad Yasin : perf-tools](https://sites.google.com/site/analysismethods/yasin-pubs)
 * [Brendan Gregg's Blog](https://www.brendangregg.com/blog/index.html)
@@ -10,6 +10,7 @@
 * [Computer, Enhance!](https://www.computerenhance.com/)
 * [Confessions of a Code Addict](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [Daniel Lemire's blog](https://lemire.me/blog/)
+* [daniellockyer/awesome-performance](https://github.com/daniellockyer/awesome-performance)
 * [EasyPerf - Denis Bakhvalov](https://easyperf.net/notes/)
 * [Israel Ogbole : Profile-Guided Optimization: A Hands-On Guide to Reducing Computational Wastage](https://israelo.io/blog/pgo/)
 * [JabPerf](https://www.jabperf.com/blog/)
@@ -19,10 +20,13 @@
 * [marek.ai](https://marek.ai/matrix-multiplication-on-cpu.html)
 * [Martin Ayvazyan - Advanced C++ Optimization Techniques](https://medium.com/@martin00001313/advanced-c-optimization-techniques-for-high-performance-applications-part-3-4602df9284d8)
 * [MattPD's C++ links: performance tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
+* [mcyoung - designing a simd algorithm from scratch](https://mcyoung.xyz/2023/11/27/simd-base64)
 * [Modern Hardware Numbers for System Design Interviews](https://hellointerview.substack.com/p/modern-hardware-numbers-for-system)
 * [n0derunner - platform performance](https://www.n0derunner.com/)
 * [Performance Engineering For Parallel Applications](https://pramodkumbhar.com/)
 * [Performance Engineers Digest](https://substack.com/home/post/p-170692740)
+* [Processing Billions of Integers: A Lesson in Memory Efficiency and Bit Manipulation](https://lab.embedinker.com/coding/processing-billions-of-integers-memory-efficiency/)
+* [purplesyringa - Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [Redpanda blog](https://www.redpanda.com/blog/always-on-production-memory-profiling-seastar)
 * [Software Bits Newsletter](https://softwarebits.substack.com)
 * [Stephan's blog - perf tool examples](https://dollberg.xyz/programming/2016/07/02/perf-tool/)
@@ -30,11 +34,6 @@
 * [The Every Computer Performance Blog](https://rwwescott.wordpress.com/)
 * [uops.info](https://uops.info/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
-* [purplesyringa - Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
-* [mcyoung - designing a simd algorithm from scratch](https://mcyoung.xyz/2023/11/27/simd-base64)
-* [daniellockyer/awesome-performance](https://github.com/daniellockyer/awesome-performance)
-* [A Short History of Performance Engineering](https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering/)
-* [Processing Billions of Integers: A Lesson in Memory Efficiency and Bit Manipulation](https://lab.embedinker.com/coding/processing-billions-of-integers-memory-efficiency/)
 
 ## Libraries
 * [fast base64 conversion](https://github.com/simdutf/simdutf)
@@ -70,6 +69,7 @@
 * [How to enable performance counters in google benchmark](https://github.com/google/benchmark/blob/main/docs/perf_counters.md)
 * [Intel Performance Counter Monitor](https://www.intel.com/content/www/us/en/developer/articles/technical/performance-counter-monitor.html)
 * [Laurence Tratt - four kinds of optimization](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+* [llvm-mca - LLVM Machine Code Analyzer](https://llvm.org/docs/CommandGuide/llvm-mca.html)
 * [magic-trace](https://github.com/janestreet/magic-trace)
 * [Memray : memory profiler for Python](https://github.com/bloomberg/memray)
 * [MTuner:  C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms](https://github.com/milostosic/MTuner)
@@ -80,14 +80,14 @@
 * [strace cheatsheet](https://blog.packagecloud.io/strace-cheat-sheet/)
 * [Terminal flame graph](https://github.com/4rtzel/tfg)
 * [Tracy - a hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
+* [Tuning a server for benchmarking](https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/)
 * [uftrace : function call graph tracer for C, C++, Rust and Python](https://github.com/namhyung/uftrace)
 * [Useful web sites about the Linux perf tools](https://perfwiki.github.io/main/useful-links/)
-* [llvm-mca - LLVM Machine Code Analyzer](https://llvm.org/docs/CommandGuide/llvm-mca.html)
-* [Tuning a server for benchmarking](https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/)
 
 
 ## Operating systems
 * [4Kb page size is obsolete](https://ieeexplore.ieee.org/abstract/document/5211562)
+* [CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/schedule.html)
 * [Controlling the page cache](https://alg-eng.blogspot.com/?m=1)
 * [How to troubleshoot high I/O wait time in Linux](https://www.site24x7.com/learn/linux/troubleshoot-high-io-wait.html)
 * [Interactive map of the Linux kernel](https://makelinux.github.io/kernel/map/)
@@ -100,13 +100,12 @@
 * [Phoronix - Linux Hardware Reviews](https://www.phoronix.com/)
 * [Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [vock - lightweight, wrapper-based kernel coverage viewer](https://github.com/kzall0c/vock)
-* [CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/schedule.html)
 
 ## Concurrency
 * [core-to-core-latency: A Nice Little Tool!](https://pramodkumbhar.com/2023/09/core-to-core-latency-a-nice-little-tool/)
+* [ForkUnion](https://github.com/ashvardanian/ForkUnion)
 * [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
 * [Why core to core latency matters (JVM)](https://foojay.io/today/why-core-to-core-latency-matters/)
-* [ForkUnion](https://github.com/ashvardanian/ForkUnion)
 
 ## Compilers
 * [Don't use the likely or unlikely attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
@@ -116,6 +115,8 @@
 
 ## Memory
 * [Are you sure you want to use MMP in your DBMS?](https://db.cs.cmu.edu/mmap-cidr2022/)
+* [Cache simulator](https://courses.cs.washington.edu/courses/cse351/cachesim/)
+* [Dan Luu - Malloc tutorial](https://danluu.com/malloc-tutorial/)
 * [Determining whether an application has poor cache performance](https://developers.redhat.com/blog/2014/03/10/determining-whether-an-application-has-poor-cache-performance-2#)
 * [Dmalloc - Debug Malloc Library](https://dmalloc.com/)
 * [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
@@ -130,6 +131,7 @@
 * [Memory Allocation Strategies - Part 1](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/)
 * [Memory allocation](https://samwho.dev/memory-allocation/)
 * [Memory management reading list](https://gist.github.com/simonrenger/d1da2a10d11f8a971fc6f1b574ab3e99)
+* [One matmul, ×295 faster: a walk down the CPU memory hierarchy](https://nguyenhoangthuan99.github.io/optimization-diaries/posts/01-cpu-matmul-memory-hierarchy)
 * [Pagemon - browse the memory map of an active running process](https://github.com/ColinIanKing/pagemon)
 * [Poul-Henning Kamp - Malloc(3) in modern Virtual Memory environments](https://docs-archive.freebsd.org/44doc/papers/malloc.pdf)
 * [Red Hat: Huge pages and transparent huge pages](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/performance_tuning_guide/s-memory-transhuge)
@@ -142,14 +144,11 @@
 * [Transparent huge pages](https://www.digitalocean.com/blog/transparent-huge-pages-and-alternative-memory-allocators)
 * [Using Huge Pages on Linux](https://rigtorp.se/hugepages/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-* [Dan Luu - Malloc tutorial](https://danluu.com/malloc-tutorial/)
-* [Cache simulator](https://courses.cs.washington.edu/courses/cse351/cachesim/)
 
 ## Benchmarks
 * [A cross-platform C library to retrieve CPU features](https://github.com/google/cpu_features)
 * [All Measurements are Wrong - Guerilla Aphorisms](http://www.perfdynamics.com/Manifesto/gcaprules.html#tth_sEc2.25)
 * [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
-* [Performance and Benchmarking - Beyond the Bottleneck: From Classic Systems to Modern AI and HPC](https://github.com/djiangtw/performance-and-benchmarking-public)
 * [AnandTech 2021 SSD Benchmark Suite](https://www.anandtech.com/show/16458/2021-ssd-benchmark-suite)
 * [bonnie++](https://www.coker.com.au/bonnie++/)
 * [Celero](https://github.com/DigitalInBlue/Celero)
@@ -163,21 +162,23 @@
 * [nanobench](https://github.com/martinus/nanobench)
 * [Open benchmarking](https://openbenchmarking.org/)
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
+* [Performance and Benchmarking - Beyond the Bottleneck: From Classic Systems to Modern AI and HPC](https://github.com/djiangtw/performance-and-benchmarking-public)
 * [sysbench - scriptable database and system performance benchmark](https://github.com/akopytov/sysbench)
 
 ## Algorithms and data structures
 * [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Bitwise binary search](https://orlp.net/blog/bitwise-binary-search/)
 * [Colony - An unordered bucket-like data container providing fast iteration/insertion/erasure](https://plflib.org/colony.htm)
+* [Data Structures in Practice - A Hardware-Aware Approach for System Software Engineers](https://github.com/djiangtw/data-structures-in-practice-public)
 * [Novel base64 implementation using lookup tables](https://github.com/npodonnell/fast-base64)
+* [One Billion Row Challenge - C++ Implementation](https://github.com/graphicsMan/1brc)
 * [Open Data Structures - an open content textbook](https://opendatastructures.org/)
 * [Sort benchmark](https://sortbenchmark.org/)
-* [Data Structures in Practice - A Hardware-Aware Approach for System Software Engineers](https://github.com/djiangtw/data-structures-in-practice-public)
-* [One Billion Row Challenge - C++ Implementation](https://github.com/graphicsMan/1brc)
 
 ## Lectures or conference talks
 * [Brendan Gregg: Kernel Recipes 2023 - Fast by Friday: Why Kernel Superpowers are Essential](https://www.youtube.com/watch?v=XudHNF4k_x0)
 * [Casey Muratori: Simple Code, High Performance](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
+* [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 * [CppCon 2014: Chander Charruth on 'Efficiency with Algorithms, Performance with Data Structures'](https://youtu.be/fHNmRkzxHWs)
 * [CppCon 2014: Mike Acton on 'Data-Oriented Design'](https://youtu.be/rX0ItVEVjHc)
 * [Kris Jusiak : Performance is not a number](https://kris-jusiak.github.io/talks/cppcon-2025/#/)
@@ -187,49 +188,48 @@
 
 ## Journal articles or technical reports
 * [John Ousterhout: Always measure one level deeper](https://cacm.acm.org/research/always-measure-one-level-deeper/)
+* [Li et al: Eliminate Branches by Melding IR Instructions](https://arxiv.org/abs/2512.22390)
 * [NanoLog: A Nanosecond Scale Logging System](https://www.usenix.org/system/files/conference/atc18/atc18-yang.pdf)
 * [Raasveldt et al: Fair Benchmarking Considered Difficult](https://mytherin.github.io/papers/2018-dbtest.pdf)
-* [Li et al: Eliminate Branches by Melding IR Instructions](https://arxiv.org/abs/2512.22390)
 
 ## Static code analysis
 * [Cobra](https://github.com/nimble-code/Cobra/)
 * [Infer](https://github.com/facebook/infer)
 
 ## Programming languages
+* [Modern C++ Features for high performance low latency systems](https://github.com/leannejdong/lowlat)
 * [Open Catalog on best practices for performance](https://github.com/codee-com/open-catalog)
 * [Python Speed Center](https://speed.python.org/about/)
-* [Modern C++ Features for high performance low latency systems](https://github.com/leannejdong/lowlat)
 
 ## Machine learning
 * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 
 ## I/O
-* [Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
 * [O_DIRECT - The Problem That Grew Up With Multi-Threading](https://zazolabs.com/odirect-the-problem-that-grew-up/)
+* [Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
 
 ## GPU acceleration
 * [Advanced NVIDIA CUDA Kernel Optimization Techniques](https://developer.nvidia.com/blog/advanced-nvidia-cuda-kernel-optimization-techniques-handwritten-ptx/)
+* [AMD GPUs go brr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
 * [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
+* [GPU concepts: Visual Learning](https://brrrviz.com/)
+* [How to scale your model](https://jax-ml.github.io/scaling-book/)
 * [Huggingface - The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 * [leetgpu](https://leetgpu.com/)
-* [Outperforming cuBLAS on H100](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
-* [Pingpong GEMM from scratch](https://github.com/bertmaher/simplegemm)
-* [Performance Engineering for AI Infra](https://github.com/wafer-ai/gpu-perf-engineering-resources?tab=readme-ov-file)
-* [AMD GPUs go brr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
-* [How to scale your model](https://jax-ml.github.io/scaling-book/)
-* [GPU concepts: Visual Learning](https://brrrviz.com/)
 * [Modern GPU Programming For MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
+* [Outperforming cuBLAS on H100](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
+* [Performance Engineering for AI Infra](https://github.com/wafer-ai/gpu-perf-engineering-resources?tab=readme-ov-file)
+* [Pingpong GEMM from scratch](https://github.com/bertmaher/simplegemm)
 
 ## Tools & Observability
 * [facebookincubator/below : interactive tool to view and record historical system data](https://github.com/facebookincubator/below)
+* [Julia Evans - Profiling and Tracing with perf](https://jvns.ca/perf-zine.pdf)
 * [likwid performance tools](https://github.com/RRZE-HPC/likwid?tab=readme-ov-file)
 * [Measuring workloads with toplev](https://github.com/andikleen/pmu-tools/wiki/toplev-manual)
 * [perf: C++23 Performance library](https://github.com/qlibs/perf)
-* [Julia Evans - Profiling and Tracing with perf](https://jvns.ca/perf-zine.pdf)
 * [xCapture v3 :  Linux Performance Analysis with Modern eBPF and DuckDB](https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/)
 
 ## CPU
 * [leetcpu](https://www.leetcpu.com/)
 * [The Most Expensive Instruction Might Be… cmov](https://questdb.com/blog/cmov-vs-branch-perf/)
-
-
+* [Why do CPUs have multiple cache levels?](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
