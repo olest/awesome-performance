@@ -34,6 +34,7 @@
 * [The Every Computer Performance Blog](https://rwwescott.wordpress.com/)
 * [uops.info](https://uops.info/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
+* [CPU performance engineering](https://github.com/usamahz/cpu-performance-engineering)
 
 ## Libraries
 * [fast base64 conversion](https://github.com/simdutf/simdutf)
