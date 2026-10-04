@@ -31,6 +31,7 @@
 * [Software Bits Newsletter](https://softwarebits.substack.com)
 * [Stephan's blog - perf tool examples](https://dollberg.xyz/programming/2016/07/02/perf-tool/)
 * [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
+* [System Design Notes - CPU, memory and CPython internals](https://harut8.github.io/system-design/python-mastery/)
 * [The Every Computer Performance Blog](https://rwwescott.wordpress.com/)
 * [uops.info](https://uops.info/)
 * [Wojciech Muła - blog](http://0x80.pl/notesen.html)
